@@ -1,0 +1,16 @@
+aparencia,temperatura,umidade,ventando,viajar
+sol,25,72,sim,va
+sol,28,91,sim,Nao-va
+sol,22,70,nao,va
+sol,23,95,nao,Nao-va
+sol,30,85,nao,Nao-va
+nublado,23,90,sim,va
+nublado,29,78,nao,va
+nublado,19,65,sim,Nao-va
+nublado,26,75,nao,va
+nublado,20,87,sim,va
+chuva,22,95,nao,va
+chuva,19,70,sim,Nao-va
+chuva,23,80,sim,Nao-va
+chuva,25,81,nao,va
+chuva,21,80,nao,va
